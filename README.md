@@ -31,6 +31,8 @@ We envision the dashboard have the following attributes:
 2) **Locality** - to be strategic with our social services we wanted to focus on making sure that when we address / refer social services that they are allocated from the approriate locations.
 3) **Adaptable** - as with any operations, we wanted this dashboard to evolve and grow with upcoming changes and issues. 
 
+The dashboard was primarily constructed in Tableau but some manipulation of the 211 dataset was accomplished in Python utilzing Pandas.
+
 To incorporate this elements into our dashboard, we did the following:
 1) **Simplicity**  
     a) Simple gauges to measure their success rate: Total Calls, Met Volume, and Not Met Volume
