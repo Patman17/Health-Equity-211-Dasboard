@@ -26,7 +26,7 @@ During the event, we were given various problem statements [(*Link to problem st
 After driving into the data we found that for the 211 calls regarding mental health had a high success rate. 211 defined success if the caller was able to referred to a social service within their area. Thus, we thought of approaching all 211 calls holistically and try to find the most unserviced call topics and then we hope to replicate the success 211 had with mental health calls to these unmet calls.
 
 ## Development of the Operational 211 Dashboard
-[**Link to Presentation**](https://drive.google.com/file/d/1Yh4KMVHRuqhXnfBzyChCstQ5fz7OovwI/view?usp=sharing)
+[**Link to Presentation**](https://drive.google.com/file/d/1Yh4KMVHRuqhXnfBzyChCstQ5fz7OovwI/view?usp=sharing)  
 We envision the dashboard have the following attributes:
 1) **Simplicity** - an interface that is very user friendly and address the key metrics directly
 2) **Locality** - to be strategic with our social services we wanted to focus on making sure that when we address / refer social services that they are allocated from the approriate locations.
